@@ -1,4 +1,4 @@
-## ✨ Hi there  👋
+## 💫 Hi there  👋
 
 # ✨ About me:
 
@@ -12,4 +12,5 @@
 - ⚡ Fun fact: ...
 
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)      [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)    [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-  
+
+[![Kmerprosdfdf's github stats](https://github-readme-stats.vercel.app/api?username=Kmerpro237&theme=blue-grey)](https://github.com/anuraghazra/github-readme-stats)
