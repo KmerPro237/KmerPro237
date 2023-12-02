@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SostheneFotso&color=green)      [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)  
 
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 [![Kmerprosdfdf's github stats](https://github-readme-stats.vercel.app/api?username=Kmerpro237&theme=blue-green)](https://github.com/KmerPro237/github-readme-stats)
 
