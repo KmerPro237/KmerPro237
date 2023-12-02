@@ -1,12 +1,10 @@
-### Hi there 👋
+## ✨ Hi there  👋
 
-**KmerPro237/KmerPro237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# ✨ About me:
 
 - 🔭 I’m currently working on Web-Development, Machine Learning and Asynchronous Message oriented Middleware (with MQTT, AMQP)
-- 🌱 I’m currently learning Javascript, CSS, SCSS
-- 👯 I’m looking to collaborate on Build Automation and Optimization projects (Java, Python, C)
+- 🌱 I’m currently learning Javascript, CSS, SCSS as add-ons
+- 👯 I’m looking to collaborate on Build Automation/Optimization, CloudOps and DevSecOps (Java, Python, C)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
