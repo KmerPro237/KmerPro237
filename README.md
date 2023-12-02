@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 
-[![Kmerprosdfdf's github stats](https://github-readme-stats.vercel.app/api?username=Kmerpro237&theme=blue-green)](https://github.com/KmerPro237/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Kmerpro237&theme=blue-green)](https://github.com/KmerPro237/github-readme-stats)
 
 [![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmerpro237&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
