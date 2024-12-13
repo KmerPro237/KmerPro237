@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning Jenkins, CI/CD, container orchestration, build automation 
 - 👯 I’m looking to collaborate on Build Automation/Optimization, CloudOps and DevSecOps, Distributed Systems (Java, Python, C, C#, Javascript)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KmerPro237)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=SostheneFotso&color=green)      [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)  
 
 # 📊 GitHub Stats:
