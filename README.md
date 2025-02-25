@@ -12,7 +12,7 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Kmerpro237&theme=blue-green)](https://github.com/KmerPro237/github-readme-stats)
 
-[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmerpro237&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kmerpro237)](https://git.io/streak-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmerpro237&theme=blue-green)](https://github.com/KmerPro237/github-readme-stats)
 
